@@ -1,3 +1,8 @@
+# Access to Project Data
+For the convenience of those reviewing this repository, the primary dataset used for this project is made available via Google Sheets. This ensures that the data can be viewed directly in a browser without the need for any downloads. Please note that this link provides view-only access, so you won't be able to make direct changes to the original sheet. However, you're free to make a copy or download it for your own use.
+
+     View the dataset here.
+
 # Data_Analyst_Excel_Project
 Customer Analysis for Airtel Company
 Overview
